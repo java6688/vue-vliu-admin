@@ -3,9 +3,7 @@
 </script>
 
 <template>
-  <div>
-    app
-  </div>
+  <router-view></router-view>
 </template>
 
 <style scoped>
