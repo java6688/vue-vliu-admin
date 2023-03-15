@@ -1,10 +1,11 @@
 <template>
   <div>
-    dashboard
+    example
   </div>
 </template>
 
 <script setup lang="ts">
+
 </script>
 
 <style scoped>
